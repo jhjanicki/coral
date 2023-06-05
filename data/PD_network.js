@@ -4,6 +4,11 @@ const data = {
     "graph": {},
     "nodes": [
         {
+            "longitude": 73.1615676879883,
+            "latitude": -0.629658222198486,
+            "L2_group_name": "Addu Atoll",
+            "L1_group_name": "Maldives",
+            "country_name": "Maldives",
             "reef_area_km2": 38.369572,
             "out_strength": 0.000929703393544973,
             "in_strength": 6.376479984344848e-08,
@@ -14,6 +19,11 @@ const data = {
             "id": 94
         },
         {
+            "longitude": 73.4145431518555,
+            "latitude": -0.299794942140579,
+            "L2_group_name": "Fuvahmulah Atoll",
+            "L1_group_name": "Maldives",
+            "country_name": "Maldives",
             "reef_area_km2": 4.161014,
             "out_strength": 0.0009323542107822416,
             "in_strength": 7.144928778128306e-08,
@@ -24,6 +34,11 @@ const data = {
             "id": 95
         },
         {
+            "longitude": 70.8493347167969,
+            "latitude": -7.58122968673706,
+            "L2_group_name": "Centurion and Ganges Banks",
+            "L1_group_name": "Southern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 9.98165,
             "out_strength": 0.0015076647360400147,
             "in_strength": 0.000133439381239784,
@@ -34,6 +49,11 @@ const data = {
             "id": 121
         },
         {
+            "longitude": 71.4388427734375,
+            "latitude": -7.25930309295654,
+            "L2_group_name": "Pitt Bank S",
+            "L1_group_name": "Southern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 20.801532,
             "out_strength": 0.001566193534005422,
             "in_strength": 0.0012876176451745655,
@@ -44,6 +64,11 @@ const data = {
             "id": 123
         },
         {
+            "longitude": 71.3569107055664,
+            "latitude": -7.07410001754761,
+            "L2_group_name": "Pitt Bank C",
+            "L1_group_name": "Southern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 34.477424,
             "out_strength": 0.0022162235039270106,
             "in_strength": 0.002877795246290805,
@@ -54,6 +79,11 @@ const data = {
             "id": 124
         },
         {
+            "longitude": 71.1980972290039,
+            "latitude": -6.95996236801147,
+            "L2_group_name": "Pitt Bank N",
+            "L1_group_name": "Southern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 27.366268,
             "out_strength": 0.0008442193904530189,
             "in_strength": 0.00018202911033235824,
@@ -64,6 +94,11 @@ const data = {
             "id": 125
         },
         {
+            "longitude": 72.4337310791016,
+            "latitude": -7.33021450042725,
+            "L2_group_name": "Diego Garcia",
+            "L1_group_name": "Southern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 89.087728,
             "out_strength": 0.0012984144006836903,
             "in_strength": 0.0027107096854020987,
@@ -74,6 +109,11 @@ const data = {
             "id": 122
         },
         {
+            "longitude": 71.6958389282227,
+            "latitude": -6.6157374382019,
+            "L2_group_name": "Unnamed reefs (GCB1)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 7.599164,
             "out_strength": 4.25792703764176e-07,
             "in_strength": 1.5050265250640564e-06,
@@ -84,6 +124,11 @@ const data = {
             "id": 127
         },
         {
+            "longitude": 71.3527297973633,
+            "latitude": -6.51969766616821,
+            "L2_group_name": "Egmont and Danger Islands (GCB2)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 82.497992,
             "out_strength": 9.941143028300829e-06,
             "in_strength": 6.153881268636419e-06,
@@ -94,6 +139,11 @@ const data = {
             "id": 128
         },
         {
+            "longitude": 71.3861999511719,
+            "latitude": -6.26526641845703,
+            "L2_group_name": "Eagle Island (GCB3)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 71.64736,
             "out_strength": 0.00027465316638282817,
             "in_strength": 0.00024129797346234067,
@@ -104,6 +154,11 @@ const data = {
             "id": 131
         },
         {
+            "longitude": 71.6470031738281,
+            "latitude": -6.31963205337524,
+            "L2_group_name": "Unnamed reefs (GCB4)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 28.66382,
             "out_strength": 6.653332575421877e-05,
             "in_strength": 4.245436933829686e-05,
@@ -114,6 +169,11 @@ const data = {
             "id": 130
         },
         {
+            "longitude": 71.9922027587891,
+            "latitude": -6.20155954360962,
+            "L2_group_name": "Unnamed reefs (GCB5)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 20.455788,
             "out_strength": 0.0027838646868107828,
             "in_strength": 0.008709900343535621,
@@ -124,6 +184,11 @@ const data = {
             "id": 132
         },
         {
+            "longitude": 71.5873718261719,
+            "latitude": -6.07008361816406,
+            "L2_group_name": "Unnamed reefs (GCB6)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 61.282652,
             "out_strength": 0.0022237048023432088,
             "in_strength": 0.0049829302770141365,
@@ -134,6 +199,11 @@ const data = {
             "id": 134
         },
         {
+            "longitude": 71.6727981567383,
+            "latitude": -5.88501644134522,
+            "L2_group_name": "Unnamed reefs (GCB7)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 41.652248,
             "out_strength": 0.003412149204738239,
             "in_strength": 0.0026404700861996284,
@@ -144,6 +214,11 @@ const data = {
             "id": 137
         },
         {
+            "longitude": 71.9089508056641,
+            "latitude": -5.92900991439819,
+            "L2_group_name": "Unnamed reefs (GCB8)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 21.205274,
             "out_strength": 0.009698121827215508,
             "in_strength": 0.01179996537539572,
@@ -154,6 +229,11 @@ const data = {
             "id": 136
         },
         {
+            "longitude": 72.1115417480469,
+            "latitude": -5.69711780548096,
+            "L2_group_name": "Unnamed reefs (GCB9)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 21.27087,
             "out_strength": 0.02344110480216916,
             "in_strength": 0.015724327341922778,
@@ -164,6 +244,11 @@ const data = {
             "id": 140
         },
         {
+            "longitude": 72.367317199707,
+            "latitude": -5.74156522750855,
+            "L2_group_name": "Nelsons Island (GCB10)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 64.236152,
             "out_strength": 0.019171885645152348,
             "in_strength": 0.013541723933204412,
@@ -174,6 +259,11 @@ const data = {
             "id": 139
         },
         {
+            "longitude": 72.6323165893555,
+            "latitude": -5.81217050552368,
+            "L2_group_name": "Unnamed reefs (GCB11)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 46.209984,
             "out_strength": 3.9991863039287195e-05,
             "in_strength": 0.00010168133573101309,
@@ -184,6 +274,11 @@ const data = {
             "id": 138
         },
         {
+            "longitude": 72.3787994384766,
+            "latitude": -5.94890880584717,
+            "L2_group_name": "Unnamed reefs (GCB12)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 21.108248,
             "out_strength": 0.0008488929584244629,
             "in_strength": 0.0017616300597736588,
@@ -194,6 +289,11 @@ const data = {
             "id": 135
         },
         {
+            "longitude": 72.6324920654297,
+            "latitude": -6.14600658416748,
+            "L2_group_name": "Unnamed reefs (GCB13)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 14.76831,
             "out_strength": 0.005541903407633143,
             "in_strength": 0.008656011887165223,
@@ -204,6 +304,11 @@ const data = {
             "id": 133
         },
         {
+            "longitude": 72.369758605957,
+            "latitude": -6.40780115127564,
+            "L2_group_name": "Unnamed reefs (GCB14)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 44.753392,
             "out_strength": 0.019535331750981797,
             "in_strength": 0.021965749362695516,
@@ -214,6 +319,11 @@ const data = {
             "id": 129
         },
         {
+            "longitude": 72.2612075805664,
+            "latitude": -6.70978593826294,
+            "L2_group_name": "Cauvin Bank (GCB15)",
+            "L1_group_name": "Grand Chagos Bank",
+            "country_name": "Chagos",
             "reef_area_km2": 21.441214,
             "out_strength": 0.02157216441783271,
             "in_strength": 0.016210765170928343,
@@ -224,6 +334,11 @@ const data = {
             "id": 126
         },
         {
+            "longitude": 71.84033203125,
+            "latitude": -5.33932161331177,
+            "L2_group_name": "Benares Shoals",
+            "L1_group_name": "Northern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 71.361776,
             "out_strength": 0.03939946728258215,
             "in_strength": 0.034419949804573205,
@@ -234,6 +349,11 @@ const data = {
             "id": 141
         },
         {
+            "longitude": 72.314582824707,
+            "latitude": -5.33153867721558,
+            "L2_group_name": "Victory Bank, Salomon Islands, and Blenheim Reef",
+            "L1_group_name": "Northern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 62.391056,
             "out_strength": 0.08029554234198896,
             "in_strength": 0.3117603188248883,
@@ -244,6 +364,11 @@ const data = {
             "id": 142
         },
         {
+            "longitude": 72.3627471923828,
+            "latitude": -4.89843940734863,
+            "L2_group_name": "Speakers Bank and Colvocoresses Reef",
+            "L1_group_name": "Northern Banks",
+            "country_name": "Chagos",
             "reef_area_km2": 67.516872,
             "out_strength": 0.01514385147709053,
             "in_strength": 0.06250376163081946,
@@ -254,6 +379,11 @@ const data = {
             "id": 143
         },
         {
+            "longitude": 57.3820419311523,
+            "latitude": -20.3691177368164,
+            "L2_group_name": "Mauritius SW",
+            "L1_group_name": "Mauritius",
+            "country_name": "Mauritius",
             "reef_area_km2": 21.829648,
             "out_strength": 0.017069142116958633,
             "in_strength": 0.0166624408615829,
@@ -264,6 +394,11 @@ const data = {
             "id": 97
         },
         {
+            "longitude": 57.6751480102539,
+            "latitude": -19.9987506866455,
+            "L2_group_name": "Mauritius N",
+            "L1_group_name": "Mauritius",
+            "country_name": "Mauritius",
             "reef_area_km2": 67.754032,
             "out_strength": 0.04040022962225977,
             "in_strength": 0.099715133174061,
@@ -274,6 +409,11 @@ const data = {
             "id": 98
         },
         {
+            "longitude": 57.7507133483887,
+            "latitude": -20.3807334899902,
+            "L2_group_name": "Mauritius SE",
+            "L1_group_name": "Mauritius",
+            "country_name": "Mauritius",
             "reef_area_km2": 46.621728,
             "out_strength": 0.049763465799786834,
             "in_strength": 0.05310859231682071,
@@ -284,6 +424,11 @@ const data = {
             "id": 96
         },
         {
+            "longitude": 63.3773460388184,
+            "latitude": -19.7440433502197,
+            "L2_group_name": "Rodrigues",
+            "L1_group_name": "Outer Islands",
+            "country_name": "Mauritius",
             "reef_area_km2": 69.053728,
             "out_strength": 0.02581099637135938,
             "in_strength": 0.011483458505484002,
@@ -294,6 +439,11 @@ const data = {
             "id": 99
         },
         {
+            "longitude": 59.6190452575684,
+            "latitude": -16.5856266021729,
+            "L2_group_name": "St Brandon",
+            "L1_group_name": "Outer Islands",
+            "country_name": "Mauritius",
             "reef_area_km2": 191.325632,
             "out_strength": 0.007224795858907531,
             "in_strength": 0.006404562708105308,
@@ -304,6 +454,11 @@ const data = {
             "id": 100
         },
         {
+            "longitude": 56.647331237793,
+            "latitude": -10.4175081253052,
+            "L2_group_name": "Vingt Cinq",
+            "L1_group_name": "Outer Islands",
+            "country_name": "Mauritius",
             "reef_area_km2": 4.34914,
             "out_strength": 0.000648105318320959,
             "in_strength": 0.006016289914733136,
@@ -314,6 +469,11 @@ const data = {
             "id": 101
         },
         {
+            "longitude": 46.2614326477051,
+            "latitude": -9.48230743408203,
+            "L2_group_name": "Aldabra Atoll SW",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 14.210247,
             "out_strength": 0.0013047702938370031,
             "in_strength": 0.002926705756017264,
@@ -324,6 +484,11 @@ const data = {
             "id": 9
         },
         {
+            "longitude": 46.2545433044434,
+            "latitude": -9.36136722564697,
+            "L2_group_name": "Aldabra Atoll NW",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 21.94274,
             "out_strength": 0.0012551552292240887,
             "in_strength": 0.0006892032956162268,
@@ -334,6 +499,11 @@ const data = {
             "id": 13
         },
         {
+            "longitude": 46.4584617614746,
+            "latitude": -9.36826705932617,
+            "L2_group_name": "Aldabra Atoll NE",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 5.982456,
             "out_strength": 0.0018120777276259435,
             "in_strength": 0.005081298148265035,
@@ -344,6 +514,11 @@ const data = {
             "id": 12
         },
         {
+            "longitude": 46.4583282470703,
+            "latitude": -9.45389175415039,
+            "L2_group_name": "Aldabra Atoll SE",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 8.726743,
             "out_strength": 0.013002027752655352,
             "in_strength": 0.014001377950714884,
@@ -354,6 +529,11 @@ const data = {
             "id": 10
         },
         {
+            "longitude": 46.5133323669434,
+            "latitude": -9.7256965637207,
+            "L2_group_name": "Assomption Island",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 11.24197,
             "out_strength": 0.055490736620979496,
             "in_strength": 0.04941251527994718,
@@ -364,6 +544,11 @@ const data = {
             "id": 6
         },
         {
+            "longitude": 47.5824203491211,
+            "latitude": -9.71393489837647,
+            "L2_group_name": "Cosmoledo Atoll",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 68.160968,
             "out_strength": 0.032086246981195644,
             "in_strength": 0.014025626126681442,
@@ -374,6 +559,11 @@ const data = {
             "id": 7
         },
         {
+            "longitude": 47.7388229370117,
+            "latitude": -10.0787000656128,
+            "L2_group_name": "Astove Island",
+            "L1_group_name": "Aldabra Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 7.879613,
             "out_strength": 0.01861071201903733,
             "in_strength": 0.021021625600905515,
@@ -384,6 +574,11 @@ const data = {
             "id": 2
         },
         {
+            "longitude": 50.3781852722168,
+            "latitude": -9.97075271606445,
+            "L2_group_name": "McLeod Bank",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 4.513243,
             "out_strength": 0.0006419844256877201,
             "in_strength": 0.0030996012310736793,
@@ -394,6 +589,11 @@ const data = {
             "id": 4
         },
         {
+            "longitude": 50.7775001525879,
+            "latitude": -10.0197677612305,
+            "L2_group_name": "Bulldog Bank",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 0.474704,
             "out_strength": 0.0019414945595748554,
             "in_strength": 0.0077768895641145116,
@@ -404,6 +604,11 @@ const data = {
             "id": 3
         },
         {
+            "longitude": 51.0973129272461,
+            "latitude": -10.17893409729,
+            "L2_group_name": "Farquhar Atoll",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 113.681152,
             "out_strength": 0.016957097371721023,
             "in_strength": 0.014781382904547136,
@@ -414,6 +619,11 @@ const data = {
             "id": 1
         },
         {
+            "longitude": 51.2024993896484,
+            "latitude": -9.78334999084473,
+            "L2_group_name": "Umzinto Bank SW",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 1.383173,
             "out_strength": 0.048285878607211695,
             "in_strength": 0.004457726391616981,
@@ -424,6 +634,11 @@ const data = {
             "id": 5
         },
         {
+            "longitude": 51.3349990844727,
+            "latitude": -9.70697021484375,
+            "L2_group_name": "Umzinto Bank NE",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 0.446617,
             "out_strength": 0.03942959552959931,
             "in_strength": 0.06117513521508211,
@@ -434,6 +649,11 @@ const data = {
             "id": 8
         },
         {
+            "longitude": 51.042552947998,
+            "latitude": -9.4032564163208,
+            "L2_group_name": "Providence Atoll",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 89.82064,
             "out_strength": 0.014780610619965719,
             "in_strength": 0.011883582895080439,
@@ -444,6 +664,11 @@ const data = {
             "id": 11
         },
         {
+            "longitude": 50.7300033569336,
+            "latitude": -9.33714866638184,
+            "L2_group_name": "Saint Pierre Island",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 2.456081,
             "out_strength": 0.009621915625419874,
             "in_strength": 0.0036380764987806423,
@@ -454,6 +679,11 @@ const data = {
             "id": 14
         },
         {
+            "longitude": 51.0560035705566,
+            "latitude": -8.80194282531738,
+            "L2_group_name": "Wizard Reef",
+            "L1_group_name": "Farquhar Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 4.082039,
             "out_strength": 0.011404737530849765,
             "in_strength": 0.018854783215208577,
@@ -464,6 +694,11 @@ const data = {
             "id": 15
         },
         {
+            "longitude": 52.75,
+            "latitude": -7.12040948867798,
+            "L2_group_name": "St François Atoll ",
+            "L1_group_name": "Alphonse Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 33.046852,
             "out_strength": 0.05256981759835843,
             "in_strength": 0.04956316795866932,
@@ -474,6 +709,11 @@ const data = {
             "id": 17
         },
         {
+            "longitude": 52.7446098327637,
+            "latitude": -7.02346229553223,
+            "L2_group_name": "Alphonse Atoll",
+            "L1_group_name": "Alphonse Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 10.378838,
             "out_strength": 0.04532204682712729,
             "in_strength": 0.0074087875164367085,
@@ -484,6 +724,11 @@ const data = {
             "id": 18
         },
         {
+            "longitude": 53.1011123657227,
+            "latitude": -6.2088623046875,
+            "L2_group_name": "Marie Louise and Desnoeufs Island",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 12.657349,
             "out_strength": 0.034075718788115716,
             "in_strength": 0.010927329601474084,
@@ -494,6 +739,11 @@ const data = {
             "id": 19
         },
         {
+            "longitude": 52.8511123657227,
+            "latitude": -6.07961177825928,
+            "L2_group_name": "Boudeuse Cay",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 9.053667,
             "out_strength": 0.02189592172994242,
             "in_strength": 0.015337040801486245,
@@ -504,6 +754,11 @@ const data = {
             "id": 20
         },
         {
+            "longitude": 53.0699996948242,
+            "latitude": -6.01773691177368,
+            "L2_group_name": "Etoile Cay",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 2.470671,
             "out_strength": 0.008815576666468686,
             "in_strength": 0.024947582037134694,
@@ -514,6 +769,11 @@ const data = {
             "id": 21
         },
         {
+            "longitude": 53.1100006103516,
+            "latitude": -5.78896188735962,
+            "L2_group_name": "Unnamed reef",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 3.043609,
             "out_strength": 0.020858689329598598,
             "in_strength": 0.038135227895590484,
@@ -524,6 +784,11 @@ const data = {
             "id": 23
         },
         {
+            "longitude": 53.3099975585938,
+            "latitude": -5.75911378860474,
+            "L2_group_name": "Poivre Atoll",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 1.849493,
             "out_strength": 0.04676444851197983,
             "in_strength": 0.06525517749633306,
@@ -534,6 +799,11 @@ const data = {
             "id": 24
         },
         {
+            "longitude": 53.6511077880859,
+            "latitude": -5.64766931533814,
+            "L2_group_name": "Desroches Atoll",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 50.624828,
             "out_strength": 0.040444568223960066,
             "in_strength": 0.039057919264590034,
@@ -544,6 +814,11 @@ const data = {
             "id": 25
         },
         {
+            "longitude": 53.3304748535156,
+            "latitude": -5.4245285987854,
+            "L2_group_name": "St Joseph Atoll and D'Arros Island",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 16.356521,
             "out_strength": 0.0210474838926613,
             "in_strength": 0.019581685267465284,
@@ -554,6 +829,11 @@ const data = {
             "id": 26
         },
         {
+            "longitude": 53.3327255249023,
+            "latitude": -5.10390186309815,
+            "L2_group_name": "Rémire Island",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 14.40178,
             "out_strength": 0.023511628400024853,
             "in_strength": 0.017902013762732653,
@@ -564,6 +844,11 @@ const data = {
             "id": 27
         },
         {
+            "longitude": 53.3781852722168,
+            "latitude": -4.89017534255981,
+            "L2_group_name": "African Banks",
+            "L1_group_name": "Amirante Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 9.977275,
             "out_strength": 0.03787631237177665,
             "in_strength": 0.0693577959535725,
@@ -574,6 +859,11 @@ const data = {
             "id": 28
         },
         {
+            "longitude": 55.3307952880859,
+            "latitude": -5.9122805595398,
+            "L2_group_name": "Platte Island",
+            "L1_group_name": "Southern Coral Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 62.519736,
             "out_strength": 0.04416297556084192,
             "in_strength": 0.08026186453784918,
@@ -584,6 +874,11 @@ const data = {
             "id": 22
         },
         {
+            "longitude": 56.21875,
+            "latitude": -7.13322448730469,
+            "L2_group_name": "Coëtivy Island",
+            "L1_group_name": "Southern Coral Group",
+            "country_name": "Seychelles",
             "reef_area_km2": 39.357404,
             "out_strength": 0.0644790574607645,
             "in_strength": 0.03145041129617337,
@@ -594,6 +889,11 @@ const data = {
             "id": 16
         },
         {
+            "longitude": 55.2362518310547,
+            "latitude": -4.4680700302124,
+            "L2_group_name": "Silhouette Island and Ile du Nord",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 8.564538,
             "out_strength": 0.05571590490305311,
             "in_strength": 0.042978486649822074,
@@ -604,6 +904,11 @@ const data = {
             "id": 34
         },
         {
+            "longitude": 55.5099983215332,
+            "latitude": -4.77189683914185,
+            "L2_group_name": "Mahé S",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 11.57284,
             "out_strength": 0.08568595523322446,
             "in_strength": 0.1632435391406001,
@@ -614,6 +919,11 @@ const data = {
             "id": 29
         },
         {
+            "longitude": 55.4049987792969,
+            "latitude": -4.65372800827026,
+            "L2_group_name": "Mahé W",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 17.738516,
             "out_strength": 0.07476292440764679,
             "in_strength": 0.04304618476113496,
@@ -624,6 +934,11 @@ const data = {
             "id": 30
         },
         {
+            "longitude": 55.4895210266113,
+            "latitude": -4.60768795013428,
+            "L2_group_name": "Mahé NE",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 21.278058,
             "out_strength": 0.07619197896718453,
             "in_strength": 0.1060817753968595,
@@ -634,6 +949,11 @@ const data = {
             "id": 31
         },
         {
+            "longitude": 55.7649955749512,
+            "latitude": -4.58395671844482,
+            "L2_group_name": "Recif Island",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 2.226068,
             "out_strength": 0.059127870198475894,
             "in_strength": 0.016119362443344568,
@@ -644,6 +964,11 @@ const data = {
             "id": 32
         },
         {
+            "longitude": 55.939998626709,
+            "latitude": -4.58395671844482,
+            "L2_group_name": "Frégate Island",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 3.694148,
             "out_strength": 0.06449186417733686,
             "in_strength": 0.03926056244843906,
@@ -654,6 +979,11 @@ const data = {
             "id": 33
         },
         {
+            "longitude": 55.8663597106934,
+            "latitude": -4.334716796875,
+            "L2_group_name": "La Digue, Félicité Island, Marianne, Grande Soeur, and Petite Soeur",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 13.846346,
             "out_strength": 0.08692836465235512,
             "in_strength": 0.04846718743456793,
@@ -664,6 +994,11 @@ const data = {
             "id": 35
         },
         {
+            "longitude": 55.7356491088867,
+            "latitude": -4.31954288482666,
+            "L2_group_name": "Praslin, Curieuse, Round Island, Cousin Island, and Cousine Island",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 36.569624,
             "out_strength": 0.04532558522895187,
             "in_strength": 0.024281672894859847,
@@ -674,6 +1009,11 @@ const data = {
             "id": 36
         },
         {
+            "longitude": 55.6699981689453,
+            "latitude": -4.21505260467529,
+            "L2_group_name": "Aride Island",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 1.924279,
             "out_strength": 0.055986444204857974,
             "in_strength": 0.027229648070500836,
@@ -684,6 +1024,11 @@ const data = {
             "id": 37
         },
         {
+            "longitude": 55.6614265441895,
+            "latitude": -3.78895735740662,
+            "L2_group_name": "Denis Island",
+            "L1_group_name": "Inner Islands",
+            "country_name": "Seychelles",
             "reef_area_km2": 18.446152,
             "out_strength": 0.06715978242095719,
             "in_strength": 0.02669713229636211,
@@ -694,6 +1039,11 @@ const data = {
             "id": 38
         },
         {
+            "longitude": 43.6712493896484,
+            "latitude": -23.4277629852295,
+            "L2_group_name": "Toliara",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 7.228149,
             "out_strength": 0.06177985371435279,
             "in_strength": 0.033715689540887876,
@@ -704,6 +1054,11 @@ const data = {
             "id": 62
         },
         {
+            "longitude": 43.5075912475586,
+            "latitude": -23.0495567321777,
+            "L2_group_name": "Complexe Mikea S",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 31.187728,
             "out_strength": 0.05166322059356649,
             "in_strength": 0.027651018698423464,
@@ -714,6 +1069,11 @@ const data = {
             "id": 63
         },
         {
+            "longitude": 43.2599983215332,
+            "latitude": -22.4930915832519,
+            "L2_group_name": "Complexe Mikea N",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 115.2624,
             "out_strength": 0.01596055661680907,
             "in_strength": 0.0063611376090086874,
@@ -724,6 +1084,11 @@ const data = {
             "id": 64
         },
         {
+            "longitude": 43.2493438720703,
+            "latitude": -21.9015083312988,
+            "L2_group_name": "Morombe",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 28.97042,
             "out_strength": 0.022215495526655023,
             "in_strength": 0.014615453727403815,
@@ -734,6 +1099,11 @@ const data = {
             "id": 66
         },
         {
+            "longitude": 43.695858001709,
+            "latitude": -21.1533050537109,
+            "L2_group_name": "Mangoky Delta and nearby islands",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 6.858137,
             "out_strength": 0.05481965339367929,
             "in_strength": 0.026835137465026193,
@@ -744,6 +1114,11 @@ const data = {
             "id": 67
         },
         {
+            "longitude": 43.9131813049316,
+            "latitude": -20.7375869750977,
+            "L2_group_name": "Maharivo Delta and nearby islands",
+            "L1_group_name": "SW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 15.648403,
             "out_strength": 0.009397062452019718,
             "in_strength": 0.01089102613990056,
@@ -754,6 +1129,11 @@ const data = {
             "id": 68
         },
         {
+            "longitude": 43.895622253418,
+            "latitude": -18.3464431762695,
+            "L2_group_name": "Melaky S islands",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 29.283536,
             "out_strength": 0.012626014308987469,
             "in_strength": 0.004704267026948084,
@@ -764,6 +1144,11 @@ const data = {
             "id": 70
         },
         {
+            "longitude": 43.695556640625,
+            "latitude": -17.4171237945557,
+            "L2_group_name": "Melaky C islands",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 4.221481,
             "out_strength": 0.01716315675908997,
             "in_strength": 0.00822312635941204,
@@ -774,6 +1159,11 @@ const data = {
             "id": 72
         },
         {
+            "longitude": 44.2472724914551,
+            "latitude": -16.4014301300049,
+            "L2_group_name": "Melaky N islands",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 3.954899,
             "out_strength": 0.013695244059601609,
             "in_strength": 0.006814336638569026,
@@ -784,6 +1174,11 @@ const data = {
             "id": 75
         },
         {
+            "longitude": 45.2304000854492,
+            "latitude": -15.9803733825684,
+            "L2_group_name": "Parc National de la Baie de Baly",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 2.331303,
             "out_strength": 0.015353764906583574,
             "in_strength": 0.003042942350320763,
@@ -794,6 +1189,11 @@ const data = {
             "id": 76
         },
         {
+            "longitude": 46.0824394226074,
+            "latitude": -15.7201557159424,
+            "L2_group_name": "Mahajanga Delta",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 6.042509,
             "out_strength": 0.01839286913201712,
             "in_strength": 0.006640707899540295,
@@ -804,6 +1204,11 @@ const data = {
             "id": 78
         },
         {
+            "longitude": 46.9476013183594,
+            "latitude": -15.217565536499,
+            "L2_group_name": "Helodrano Mahajambe",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 4.594564,
             "out_strength": 0.003959972361081674,
             "in_strength": 0.0031764677521189414,
@@ -814,6 +1219,11 @@ const data = {
             "id": 79
         },
         {
+            "longitude": 47.2458038330078,
+            "latitude": -14.8853015899658,
+            "L2_group_name": "Helodrano Mahajambe N",
+            "L1_group_name": "NW Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 7.108799,
             "out_strength": 0.0024379210888649185,
             "in_strength": 0.001983180267232935,
@@ -824,6 +1234,11 @@ const data = {
             "id": 81
         },
         {
+            "longitude": 47.6083602905273,
+            "latitude": -14.5110235214233,
+            "L2_group_name": "Analalava",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 32.346844,
             "out_strength": 0.007410176801374497,
             "in_strength": 0.011598359407331062,
@@ -834,6 +1249,11 @@ const data = {
             "id": 82
         },
         {
+            "longitude": 47.8452568054199,
+            "latitude": -14.0724840164185,
+            "L2_group_name": "Southern Barrier Reef S",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 41.613552,
             "out_strength": 0.02835191900931996,
             "in_strength": 0.009333899751625,
@@ -844,6 +1264,11 @@ const data = {
             "id": 83
         },
         {
+            "longitude": 47.9468269348145,
+            "latitude": -13.6668510437012,
+            "L2_group_name": "Southern Barrier Reef N",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 53.488356,
             "out_strength": 0.005954683127247992,
             "in_strength": 0.014837104178382297,
@@ -854,6 +1279,11 @@ const data = {
             "id": 84
         },
         {
+            "longitude": 48.3329277038574,
+            "latitude": -13.3650178909302,
+            "L2_group_name": "Nosy Be",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 42.883664,
             "out_strength": 0.0013490764614200131,
             "in_strength": 0.00019353846773501065,
@@ -864,6 +1294,11 @@ const data = {
             "id": 85
         },
         {
+            "longitude": 48.5922393798828,
+            "latitude": -12.8991441726685,
+            "L2_group_name": "Nosy Mitsio",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 31.452132,
             "out_strength": 6.035270154560177e-08,
             "in_strength": 0.0,
@@ -874,6 +1309,11 @@ const data = {
             "id": 87
         },
         {
+            "longitude": 46.5279998779297,
+            "latitude": -12.3301382064819,
+            "L2_group_name": "Zélée Bank",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 21.770652,
             "out_strength": 0.00017088349116365598,
             "in_strength": 0.0004556930967578469,
@@ -884,6 +1324,11 @@ const data = {
             "id": 90
         },
         {
+            "longitude": 48.8000030517578,
+            "latitude": -12.4529800415039,
+            "L2_group_name": "Nosy Valiha",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 21.553094,
             "out_strength": 0.00048028185669543274,
             "in_strength": 0.0006348529454166272,
@@ -894,6 +1339,11 @@ const data = {
             "id": 89
         },
         {
+            "longitude": 49.0082168579102,
+            "latitude": -12.2066173553467,
+            "L2_group_name": "Nosy Hara Reserve",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 58.492976,
             "out_strength": 0.0015550400640220756,
             "in_strength": 0.005710845005543754,
@@ -904,6 +1354,11 @@ const data = {
             "id": 91
         },
         {
+            "longitude": 49.3329200744629,
+            "latitude": -12.136830329895,
+            "L2_group_name": "Cape Amber",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 41.37784,
             "out_strength": 0.004035304905240905,
             "in_strength": 0.0063835628876217345,
@@ -914,6 +1369,11 @@ const data = {
             "id": 92
         },
         {
+            "longitude": 49.6011772155762,
+            "latitude": -12.5545778274536,
+            "L2_group_name": "Ambolobozokely",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 16.155543,
             "out_strength": 0.11262453383541286,
             "in_strength": 0.06940838234248117,
@@ -924,6 +1384,11 @@ const data = {
             "id": 88
         },
         {
+            "longitude": 49.8547515869141,
+            "latitude": -12.9221792221069,
+            "L2_group_name": "Nosy Ankao",
+            "L1_group_name": "N Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 28.830082,
             "out_strength": 0.10363875619063695,
             "in_strength": 0.049451232772088814,
@@ -934,6 +1399,11 @@ const data = {
             "id": 86
         },
         {
+            "longitude": 50.4162864685059,
+            "latitude": -15.2146463394165,
+            "L2_group_name": "Antalaha",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 17.259378,
             "out_strength": 0.05712035091803776,
             "in_strength": 0.0312606863895267,
@@ -944,6 +1414,11 @@ const data = {
             "id": 80
         },
         {
+            "longitude": 50.1515731811523,
+            "latitude": -15.8320055007935,
+            "L2_group_name": "Parc National de Masoala",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 25.006936,
             "out_strength": 0.03084591433585017,
             "in_strength": 0.029997581095103497,
@@ -954,6 +1429,11 @@ const data = {
             "id": 77
         },
         {
+            "longitude": 49.8285675048828,
+            "latitude": -16.434591293335,
+            "L2_group_name": "Mananara Avaratra",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 11.508341,
             "out_strength": 0.011893091932735491,
             "in_strength": 0.023999272947509222,
@@ -964,6 +1444,11 @@ const data = {
             "id": 74
         },
         {
+            "longitude": 49.8976821899414,
+            "latitude": -16.9797611236572,
+            "L2_group_name": "Nosy Boraha",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 46.94496,
             "out_strength": 0.034845058734197014,
             "in_strength": 0.03992432351109652,
@@ -974,6 +1459,11 @@ const data = {
             "id": 73
         },
         {
+            "longitude": 49.4914970397949,
+            "latitude": -17.8282833099365,
+            "L2_group_name": "Toamasina",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 5.810313,
             "out_strength": 0.04664625266079526,
             "in_strength": 0.03150151179604499,
@@ -984,6 +1474,11 @@ const data = {
             "id": 71
         },
         {
+            "longitude": 48.9314270019531,
+            "latitude": -19.5032234191895,
+            "L2_group_name": "Brickaville",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 0.375018,
             "out_strength": 0.034652768981214103,
             "in_strength": 0.007358037535532129,
@@ -994,6 +1489,11 @@ const data = {
             "id": 69
         },
         {
+            "longitude": 48.0333366394043,
+            "latitude": -22.148307800293,
+            "L2_group_name": "Manakara",
+            "L1_group_name": "E Madagascar",
+            "country_name": "Madagascar",
             "reef_area_km2": 0.006839,
             "out_strength": 0.03127463644860406,
             "in_strength": 0.0025789416505942768,
@@ -1004,6 +1504,11 @@ const data = {
             "id": 65
         },
         {
+            "longitude": 40.3600044250488,
+            "latitude": -22.3483390808105,
+            "L2_group_name": "Europa Island",
+            "L1_group_name": "Scattered Islands",
+            "country_name": "France",
             "reef_area_km2": 6.886314,
             "out_strength": 0.024167477541340177,
             "in_strength": 0.0024407473437610397,
@@ -1014,6 +1519,11 @@ const data = {
             "id": 44
         },
         {
+            "longitude": 39.6782836914062,
+            "latitude": -21.4802646636963,
+            "L2_group_name": "Bassas da India",
+            "L1_group_name": "Scattered Islands",
+            "country_name": "France",
             "reef_area_km2": 27.974344,
             "out_strength": 0.030287392216430432,
             "in_strength": 0.007937134958627683,
@@ -1024,6 +1534,11 @@ const data = {
             "id": 45
         },
         {
+            "longitude": 42.7200012207031,
+            "latitude": -17.0510330200195,
+            "L2_group_name": "Juan de Nova Island",
+            "L1_group_name": "Scattered Islands",
+            "country_name": "France",
             "reef_area_km2": 40.618568,
             "out_strength": 0.03212280360635271,
             "in_strength": 0.0032796500348385525,
@@ -1034,6 +1549,11 @@ const data = {
             "id": 47
         },
         {
+            "longitude": 47.3514213562012,
+            "latitude": -11.5232629776001,
+            "L2_group_name": "Glorioso Islands",
+            "L1_group_name": "Scattered Islands",
+            "country_name": "France",
             "reef_area_km2": 69.065072,
             "out_strength": 0.02584795895429033,
             "in_strength": 0.005723977954266492,
@@ -1044,6 +1564,11 @@ const data = {
             "id": 93
         },
         {
+            "longitude": 54.523998260498,
+            "latitude": -15.8888444900513,
+            "L2_group_name": "Tromelin Island",
+            "L1_group_name": "Scattered Islands",
+            "country_name": "France",
             "reef_area_km2": 2.982867,
             "out_strength": 0.000690570466474035,
             "in_strength": 0.0005516078415925135,
@@ -1054,6 +1579,11 @@ const data = {
             "id": 48
         },
         {
+            "longitude": 45.0874557495117,
+            "latitude": -12.9576416015625,
+            "L2_group_name": "Mayotte S",
+            "L1_group_name": "Mayotte",
+            "country_name": "France",
             "reef_area_km2": 107.72136,
             "out_strength": 0.037595352508840385,
             "in_strength": 0.01983134527902042,
@@ -1064,6 +1594,11 @@ const data = {
             "id": 49
         },
         {
+            "longitude": 45.2376098632813,
+            "latitude": -12.7748775482178,
+            "L2_group_name": "Mayotte E",
+            "L1_group_name": "Mayotte",
+            "country_name": "France",
             "reef_area_km2": 57.704572,
             "out_strength": 0.03825393453072897,
             "in_strength": 0.004185130319358931,
@@ -1074,6 +1609,11 @@ const data = {
             "id": 50
         },
         {
+            "longitude": 45.0275268554688,
+            "latitude": -12.6648578643799,
+            "L2_group_name": "Mayotte NW",
+            "L1_group_name": "Mayotte",
+            "country_name": "France",
             "reef_area_km2": 82.868768,
             "out_strength": 0.030740784230791338,
             "in_strength": 0.014867701781539866,
@@ -1084,6 +1624,11 @@ const data = {
             "id": 51
         },
         {
+            "longitude": 55.3328971862793,
+            "latitude": -21.1952304840088,
+            "L2_group_name": "Réunion",
+            "L1_group_name": "Réunion",
+            "country_name": "France",
             "reef_area_km2": 7.830171,
             "out_strength": 0.0057723375733057004,
             "in_strength": 0.0038584341808130065,
@@ -1094,6 +1639,11 @@ const data = {
             "id": 46
         },
         {
+            "longitude": 44.3950691223145,
+            "latitude": -12.2110795974731,
+            "L2_group_name": "Nzwani",
+            "L1_group_name": "Comoros",
+            "country_name": "Comoros",
             "reef_area_km2": 28.39674,
             "out_strength": 0.0016940137417533374,
             "in_strength": 0.0017925094937149373,
@@ -1104,6 +1654,11 @@ const data = {
             "id": 40
         },
         {
+            "longitude": 43.7444458007812,
+            "latitude": -12.3534717559815,
+            "L2_group_name": "Mwali",
+            "L1_group_name": "Comoros",
+            "country_name": "Comoros",
             "reef_area_km2": 40.383948,
             "out_strength": 0.002811506909696567,
             "in_strength": 0.002521895931337279,
@@ -1114,6 +1669,11 @@ const data = {
             "id": 39
         },
         {
+            "longitude": 43.480770111084,
+            "latitude": -11.8554544448853,
+            "L2_group_name": "Ngazidja SE",
+            "L1_group_name": "Comoros",
+            "country_name": "Comoros",
             "reef_area_km2": 11.35953,
             "out_strength": 0.0028836733648558077,
             "in_strength": 0.0021783711365695995,
@@ -1124,6 +1684,11 @@ const data = {
             "id": 41
         },
         {
+            "longitude": 43.1964302062988,
+            "latitude": -11.7678985595703,
+            "L2_group_name": "Ngazidja SW",
+            "L1_group_name": "Comoros",
+            "country_name": "Comoros",
             "reef_area_km2": 12.861772,
             "out_strength": 0.003776130419073898,
             "in_strength": 0.0027363930317699475,
@@ -1134,6 +1699,11 @@ const data = {
             "id": 42
         },
         {
+            "longitude": 43.3432579040527,
+            "latitude": -11.4803686141968,
+            "L2_group_name": "Ngazidja N",
+            "L1_group_name": "Comoros",
+            "country_name": "Comoros",
             "reef_area_km2": 27.536484,
             "out_strength": 0.004478677087690043,
             "in_strength": 0.00313422523465005,
@@ -1144,6 +1714,11 @@ const data = {
             "id": 43
         },
         {
+            "longitude": 35.5,
+            "latitude": -23.2713375091553,
+            "L2_group_name": "Guiducua",
+            "L1_group_name": "S Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 1.258315,
             "out_strength": 0.005385430109024129,
             "in_strength": 0.0035153143231765574,
@@ -1154,6 +1729,11 @@ const data = {
             "id": 102
         },
         {
+            "longitude": 35.5400047302246,
+            "latitude": -22.1993980407715,
+            "L2_group_name": "Vilanculos",
+            "L1_group_name": "S Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 2.517823,
             "out_strength": 0.006208809212296129,
             "in_strength": 0.003929881215275185,
@@ -1164,6 +1744,11 @@ const data = {
             "id": 103
         },
         {
+            "longitude": 35.4079971313477,
+            "latitude": -21.5686664581299,
+            "L2_group_name": "Parque Nacional do Bazaruto",
+            "L1_group_name": "S Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 48.029936,
             "out_strength": 0.00864994709150231,
             "in_strength": 0.0057705852515458015,
@@ -1174,6 +1759,11 @@ const data = {
             "id": 104
         },
         {
+            "longitude": 38.9851455688477,
+            "latitude": -17.1755275726318,
+            "L2_group_name": "Primeiras Islands",
+            "L1_group_name": "Primeiras and Segundas Archipelago",
+            "country_name": "Mozambique",
             "reef_area_km2": 24.151316,
             "out_strength": 0.012828184370885861,
             "in_strength": 0.007931719879845154,
@@ -1184,6 +1774,11 @@ const data = {
             "id": 105
         },
         {
+            "longitude": 39.7773284912109,
+            "latitude": -16.6024227142334,
+            "L2_group_name": "Segundas Islands",
+            "L1_group_name": "Primeiras and Segundas Archipelago",
+            "country_name": "Mozambique",
             "reef_area_km2": 15.734421,
             "out_strength": 0.013876974544578322,
             "in_strength": 0.0086974953058177,
@@ -1194,6 +1789,11 @@ const data = {
             "id": 106
         },
         {
+            "longitude": 40.2094993591309,
+            "latitude": -16.121395111084,
+            "L2_group_name": "Reefs north of the Segundas Islands S",
+            "L1_group_name": "Primeiras and Segundas Archipelago",
+            "country_name": "Mozambique",
             "reef_area_km2": 8.182214,
             "out_strength": 0.013165052671367,
             "in_strength": 0.006916768667065286,
@@ -1204,6 +1804,11 @@ const data = {
             "id": 107
         },
         {
+            "longitude": 40.4669227600098,
+            "latitude": -15.6568231582642,
+            "L2_group_name": "Reefs north of the Segundas Islands N",
+            "L1_group_name": "Primeiras and Segundas Archipelago",
+            "country_name": "Mozambique",
             "reef_area_km2": 2.566153,
             "out_strength": 0.00701115855211585,
             "in_strength": 0.006036757941464982,
@@ -1214,6 +1819,11 @@ const data = {
             "id": 108
         },
         {
+            "longitude": 40.7169227600098,
+            "latitude": -15.112099647522,
+            "L2_group_name": "Mozambique Island",
+            "L1_group_name": "N Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 18.17234,
             "out_strength": 0.0055556143425362315,
             "in_strength": 0.00682184557568865,
@@ -1224,6 +1834,11 @@ const data = {
             "id": 109
         },
         {
+            "longitude": 40.7920761108398,
+            "latitude": -14.5524778366089,
+            "L2_group_name": "Nacala",
+            "L1_group_name": "N Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 59.724752,
             "out_strength": 0.01665928346101192,
             "in_strength": 0.011398949939105845,
@@ -1234,6 +1849,11 @@ const data = {
             "id": 110
         },
         {
+            "longitude": 40.6751899719238,
+            "latitude": -14.152045249939,
+            "L2_group_name": "Memba S",
+            "L1_group_name": "N Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 51.867464,
             "out_strength": 0.014849690994619885,
             "in_strength": 0.009036591698926188,
@@ -1244,6 +1864,11 @@ const data = {
             "id": 111
         },
         {
+            "longitude": 40.5924110412598,
+            "latitude": -13.660737991333,
+            "L2_group_name": "Memba N",
+            "L1_group_name": "N Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 8.402548,
             "out_strength": 0.015074494008911254,
             "in_strength": 0.009859512207848645,
@@ -1254,6 +1879,11 @@ const data = {
             "id": 112
         },
         {
+            "longitude": 40.5843467712402,
+            "latitude": -13.0807933807373,
+            "L2_group_name": "Pemba",
+            "L1_group_name": "N Mozambique",
+            "country_name": "Mozambique",
             "reef_area_km2": 29.76276,
             "out_strength": 0.015290820356656968,
             "in_strength": 0.012174153637586355,
@@ -1264,6 +1894,11 @@ const data = {
             "id": 113
         },
         {
+            "longitude": 40.6167221069336,
+            "latitude": -12.5467653274536,
+            "L2_group_name": "Southernmost Quirimbas",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 28.25258,
             "out_strength": 0.0035324099400712273,
             "in_strength": 0.007932218441306073,
@@ -1274,6 +1909,11 @@ const data = {
             "id": 114
         },
         {
+            "longitude": 41.4016227722168,
+            "latitude": -12.1955089569092,
+            "L2_group_name": "St Lazarus Bank",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 30.083676,
             "out_strength": 0.014504415181281342,
             "in_strength": 0.01153583317969494,
@@ -1284,6 +1924,11 @@ const data = {
             "id": 115
         },
         {
+            "longitude": 40.5714797973633,
+            "latitude": -12.0993566513062,
+            "L2_group_name": "Quirimba, Ibo, and Matemo Islands",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 78.16364,
             "out_strength": 0.007732885301339859,
             "in_strength": 0.0116483427675575,
@@ -1294,6 +1939,11 @@ const data = {
             "id": 116
         },
         {
+            "longitude": 40.5871887207031,
+            "latitude": -11.7296104431152,
+            "L2_group_name": "Quiterajo",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 68.232216,
             "out_strength": 0.008333642971592472,
             "in_strength": 0.014043301679322938,
@@ -1304,6 +1954,11 @@ const data = {
             "id": 117
         },
         {
+            "longitude": 40.5517578125,
+            "latitude": -11.3900604248047,
+            "L2_group_name": "Mocimboa da Praia",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 100.350488,
             "out_strength": 0.0028597626162214012,
             "in_strength": 0.009299637822264575,
@@ -1314,6 +1969,11 @@ const data = {
             "id": 118
         },
         {
+            "longitude": 40.6420440673828,
+            "latitude": -11.053035736084,
+            "L2_group_name": "Metundo, Vamizi, and Rongui Islands",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 151.634336,
             "out_strength": 0.002139646598706058,
             "in_strength": 0.011810114990378725,
@@ -1324,6 +1984,11 @@ const data = {
             "id": 119
         },
         {
+            "longitude": 40.5971870422363,
+            "latitude": -10.6831502914429,
+            "L2_group_name": "Palma",
+            "L1_group_name": "Quirimbas Islands",
+            "country_name": "Mozambique",
             "reef_area_km2": 49.115204,
             "out_strength": 0.005400393446230603,
             "in_strength": 0.0074927531192877615,
@@ -1334,6 +1999,11 @@ const data = {
             "id": 120
         },
         {
+            "longitude": 40.3539161682129,
+            "latitude": -10.2843542098999,
+            "L2_group_name": "Mongo Island",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 30.235788,
             "out_strength": 0.003624967208654577,
             "in_strength": 0.0069439773333006116,
@@ -1344,6 +2014,11 @@ const data = {
             "id": 147
         },
         {
+            "longitude": 40.1761283874512,
+            "latitude": -10.1989526748657,
+            "L2_group_name": "Mikindani Bay",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 29.098956,
             "out_strength": 0.0024292880438443916,
             "in_strength": 0.011508519914875651,
@@ -1354,6 +2029,11 @@ const data = {
             "id": 148
         },
         {
+            "longitude": 39.8887825012207,
+            "latitude": -10.0264263153076,
+            "L2_group_name": "Lindi",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 29.840672,
             "out_strength": 0.0,
             "in_strength": 0.005612764800878002,
@@ -1364,6 +2044,11 @@ const data = {
             "id": 149
         },
         {
+            "longitude": 39.7582321166992,
+            "latitude": -9.71188545227051,
+            "L2_group_name": "Mchinga",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 11.296435,
             "out_strength": 0.0,
             "in_strength": 0.0023612833316978238,
@@ -1374,6 +2059,11 @@ const data = {
             "id": 150
         },
         {
+            "longitude": 39.6556510925293,
+            "latitude": -9.37960529327393,
+            "L2_group_name": "Kisongo",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 4.248743,
             "out_strength": 0.0,
             "in_strength": 0.0016735709803162684,
@@ -1384,6 +2074,11 @@ const data = {
             "id": 151
         },
         {
+            "longitude": 39.5909957885742,
+            "latitude": -9.05581474304199,
+            "L2_group_name": "Kilwa Kisiwani and Songa Mnara Islands",
+            "L1_group_name": "S Tanzania",
+            "country_name": "Tanzania",
             "reef_area_km2": 7.956781,
             "out_strength": 0.0,
             "in_strength": 0.0010887824177869343,
@@ -1394,6 +2089,11 @@ const data = {
             "id": 152
         },
         {
+            "longitude": 39.5418853759766,
+            "latitude": -8.82572746276856,
+            "L2_group_name": "Songo Songo Islands S",
+            "L1_group_name": "Songo Songo Islands",
+            "country_name": "Tanzania",
             "reef_area_km2": 43.536364,
             "out_strength": 0.004686246295493706,
             "in_strength": 0.07200930821821047,
@@ -1404,6 +2104,11 @@ const data = {
             "id": 153
         },
         {
+            "longitude": 39.4873313903809,
+            "latitude": -8.55892086029053,
+            "L2_group_name": "Songo Songo Islands C",
+            "L1_group_name": "Songo Songo Islands",
+            "country_name": "Tanzania",
             "reef_area_km2": 117.662112,
             "out_strength": 0.07092319981445733,
             "in_strength": 0.06601073941170653,
@@ -1414,6 +2119,11 @@ const data = {
             "id": 154
         },
         {
+            "longitude": 39.3827438354492,
+            "latitude": -8.34731674194336,
+            "L2_group_name": "Songo Songo Islands NW",
+            "L1_group_name": "Songo Songo Islands",
+            "country_name": "Tanzania",
             "reef_area_km2": 22.210244,
             "out_strength": 0.09163545101587159,
             "in_strength": 0.09149526840258873,
@@ -1424,6 +2134,11 @@ const data = {
             "id": 155
         },
         {
+            "longitude": 39.554759979248,
+            "latitude": -8.33635139465332,
+            "L2_group_name": "Songo Songo Islands NE",
+            "L1_group_name": "Songo Songo Islands",
+            "country_name": "Tanzania",
             "reef_area_km2": 44.9795,
             "out_strength": 0.06172962252542414,
             "in_strength": 0.05045971410506668,
@@ -1434,6 +2149,11 @@ const data = {
             "id": 156
         },
         {
+            "longitude": 39.7322311401367,
+            "latitude": -8.01682186126709,
+            "L2_group_name": "Mafia Island SE",
+            "L1_group_name": "Mafia Island",
+            "country_name": "Tanzania",
             "reef_area_km2": 67.1542,
             "out_strength": 0.06660675290056174,
             "in_strength": 0.0534363861512021,
@@ -1444,6 +2164,11 @@ const data = {
             "id": 157
         },
         {
+            "longitude": 39.7540588378906,
+            "latitude": -7.69152545928955,
+            "L2_group_name": "Mafia Island N",
+            "L1_group_name": "Mafia Island",
+            "country_name": "Tanzania",
             "reef_area_km2": 58.269032,
             "out_strength": 0.03392193875564231,
             "in_strength": 0.016284702330191435,
@@ -1454,6 +2179,11 @@ const data = {
             "id": 159
         },
         {
+            "longitude": 39.5583915710449,
+            "latitude": -7.94768905639648,
+            "L2_group_name": "Mafia Island SW",
+            "L1_group_name": "Mafia Island",
+            "country_name": "Tanzania",
             "reef_area_km2": 67.12564,
             "out_strength": 0.03462753256275835,
             "in_strength": 0.004728124557141788,
@@ -1464,6 +2194,11 @@ const data = {
             "id": 158
         },
         {
+            "longitude": 39.4744186401367,
+            "latitude": -7.4896993637085,
+            "L2_group_name": "Kwale Island",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 21.51538,
             "out_strength": 0.03085586785924445,
             "in_strength": 0.01634677655882743,
@@ -1474,6 +2209,11 @@ const data = {
             "id": 160
         },
         {
+            "longitude": 39.5092887878418,
+            "latitude": -7.235915184021,
+            "L2_group_name": "Buuni",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 7.037108,
             "out_strength": 0.025235536530241007,
             "in_strength": 0.006279790787845522,
@@ -1484,6 +2224,11 @@ const data = {
             "id": 161
         },
         {
+            "longitude": 39.9375,
+            "latitude": -6.89461374282837,
+            "L2_group_name": "Latham Island",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 10.128487,
             "out_strength": 0.03864490049721215,
             "in_strength": 0.0022088275318421463,
@@ -1494,6 +2239,11 @@ const data = {
             "id": 162
         },
         {
+            "longitude": 39.431999206543,
+            "latitude": -6.86603212356567,
+            "L2_group_name": "Dar es Salaam S",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 19.100612,
             "out_strength": 0.05858496927895038,
             "in_strength": 0.0016267755625607606,
@@ -1504,6 +2254,11 @@ const data = {
             "id": 163
         },
         {
+            "longitude": 39.2371444702148,
+            "latitude": -6.63434982299805,
+            "L2_group_name": "Dar es Salaam N",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 29.182348,
             "out_strength": 0.08394508062931481,
             "in_strength": 0.0036175041979200234,
@@ -1514,6 +2269,11 @@ const data = {
             "id": 164
         },
         {
+            "longitude": 39.0300025939941,
+            "latitude": -6.45777082443237,
+            "L2_group_name": "Bagamoyo",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 9.200494,
             "out_strength": 0.06267116701060076,
             "in_strength": 0.0020567012735107568,
@@ -1524,6 +2284,11 @@ const data = {
             "id": 165
         },
         {
+            "longitude": 38.9177742004395,
+            "latitude": -6.18345165252686,
+            "L2_group_name": "Reefs west of Zanzibar",
+            "L1_group_name": "Dar es Salaam",
+            "country_name": "Tanzania",
             "reef_area_km2": 2.820705,
             "out_strength": 0.08112661524442283,
             "in_strength": 0.0025054612439876453,
@@ -1534,6 +2299,11 @@ const data = {
             "id": 168
         },
         {
+            "longitude": 39.133731842041,
+            "latitude": -6.16138982772827,
+            "L2_group_name": "Zanzibar W",
+            "L1_group_name": "Zanzibar",
+            "country_name": "Tanzania",
             "reef_area_km2": 81.64352,
             "out_strength": 0.08935776767560069,
             "in_strength": 0.02999215258234001,
@@ -1544,6 +2314,11 @@ const data = {
             "id": 169
         },
         {
+            "longitude": 39.3039398193359,
+            "latitude": -6.36267280578613,
+            "L2_group_name": "Zanzibar SW",
+            "L1_group_name": "Zanzibar",
+            "country_name": "Tanzania",
             "reef_area_km2": 67.893512,
             "out_strength": 0.058605191515992666,
             "in_strength": 0.014746204822696849,
@@ -1554,6 +2329,11 @@ const data = {
             "id": 167
         },
         {
+            "longitude": 39.542781829834,
+            "latitude": -6.37120246887207,
+            "L2_group_name": "Zanzibar SE",
+            "L1_group_name": "Zanzibar",
+            "country_name": "Tanzania",
             "reef_area_km2": 23.236528,
             "out_strength": 0.06550814026327716,
             "in_strength": 0.0650490035888698,
@@ -1564,6 +2344,11 @@ const data = {
             "id": 166
         },
         {
+            "longitude": 39.468334197998,
+            "latitude": -6.0890007019043,
+            "L2_group_name": "Zanzibar E",
+            "L1_group_name": "Zanzibar",
+            "country_name": "Tanzania",
             "reef_area_km2": 7.71031,
             "out_strength": 0.055274044316996784,
             "in_strength": 0.23951225927537736,
@@ -1574,6 +2359,11 @@ const data = {
             "id": 170
         },
         {
+            "longitude": 39.3019180297852,
+            "latitude": -5.82561635971069,
+            "L2_group_name": "Zanzibar N",
+            "L1_group_name": "Zanzibar",
+            "country_name": "Tanzania",
             "reef_area_km2": 83.237712,
             "out_strength": 0.032860960788388176,
             "in_strength": 0.24841565116420544,
@@ -1584,6 +2374,11 @@ const data = {
             "id": 171
         },
         {
+            "longitude": 38.8845481872559,
+            "latitude": -5.79438543319702,
+            "L2_group_name": "Mkwaja",
+            "L1_group_name": "Tanga",
+            "country_name": "Tanzania",
             "reef_area_km2": 5.135509,
             "out_strength": 0.007925907150141414,
             "in_strength": 0.18505948233435032,
@@ -1594,6 +2389,11 @@ const data = {
             "id": 172
         },
         {
+            "longitude": 39.0173950195312,
+            "latitude": -5.54667282104492,
+            "L2_group_name": "Maziwe Island and Pangani",
+            "L1_group_name": "Tanga",
+            "country_name": "Tanzania",
             "reef_area_km2": 24.779604,
             "out_strength": 0.05199735880490418,
             "in_strength": 0.02170215816632738,
@@ -1604,6 +2404,11 @@ const data = {
             "id": 173
         },
         {
+            "longitude": 39.1063995361328,
+            "latitude": -5.28294134140015,
+            "L2_group_name": "Kilale",
+            "L1_group_name": "Tanga",
+            "country_name": "Tanzania",
             "reef_area_km2": 11.597388,
             "out_strength": 0.05831563384317438,
             "in_strength": 0.000816554957599927,
@@ -1614,6 +2419,11 @@ const data = {
             "id": 175
         },
         {
+            "longitude": 39.2000007629395,
+            "latitude": -5.02995681762695,
+            "L2_group_name": "Tanga",
+            "L1_group_name": "Tanga",
+            "country_name": "Tanzania",
             "reef_area_km2": 44.460456,
             "out_strength": 0.052495186342713794,
             "in_strength": 0.009871386158679319,
@@ -1624,6 +2434,11 @@ const data = {
             "id": 178
         },
         {
+            "longitude": 39.2635688781738,
+            "latitude": -4.80961894989014,
+            "L2_group_name": "Dumbani",
+            "L1_group_name": "Tanga",
+            "country_name": "Tanzania",
             "reef_area_km2": 14.67994,
             "out_strength": 0.06181883722774241,
             "in_strength": 0.008337419341584999,
@@ -1634,6 +2449,11 @@ const data = {
             "id": 180
         },
         {
+            "longitude": 39.6333312988281,
+            "latitude": -5.42941427230835,
+            "L2_group_name": "Pemba S",
+            "L1_group_name": "Pemba",
+            "country_name": "Tanzania",
             "reef_area_km2": 33.35144,
             "out_strength": 0.04522914491062863,
             "in_strength": 0.033774000093122966,
@@ -1644,6 +2464,11 @@ const data = {
             "id": 174
         },
         {
+            "longitude": 39.845516204834,
+            "latitude": -5.24905920028687,
+            "L2_group_name": "Pemba E",
+            "L1_group_name": "Pemba",
+            "country_name": "Tanzania",
             "reef_area_km2": 14.122951,
             "out_strength": 0.07389584200189468,
             "in_strength": 0.11424183018503281,
@@ -1654,6 +2479,11 @@ const data = {
             "id": 176
         },
         {
+            "longitude": 39.7731513977051,
+            "latitude": -4.86327362060547,
+            "L2_group_name": "Pemba N",
+            "L1_group_name": "Pemba",
+            "country_name": "Tanzania",
             "reef_area_km2": 127.602304,
             "out_strength": 0.0680926573527617,
             "in_strength": 0.04140268584812285,
@@ -1664,6 +2494,11 @@ const data = {
             "id": 179
         },
         {
+            "longitude": 39.6449279785156,
+            "latitude": -5.17221212387085,
+            "L2_group_name": "Pemba W",
+            "L1_group_name": "Pemba",
+            "country_name": "Tanzania",
             "reef_area_km2": 55.357744,
             "out_strength": 0.034864372404970215,
             "in_strength": 0.04550174868015685,
@@ -1674,6 +2509,11 @@ const data = {
             "id": 177
         },
         {
+            "longitude": 39.3688354492187,
+            "latitude": -4.68640804290772,
+            "L2_group_name": "Kisite Marine National Park",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 21.030716,
             "out_strength": 0.03682629400453641,
             "in_strength": 0.02948012030611195,
@@ -1684,6 +2524,11 @@ const data = {
             "id": 52
         },
         {
+            "longitude": 39.5388259887695,
+            "latitude": -4.43031644821167,
+            "L2_group_name": "Ukunda",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 5.932163,
             "out_strength": 0.012255228829030775,
             "in_strength": 0.0008698990579730861,
@@ -1694,6 +2539,11 @@ const data = {
             "id": 53
         },
         {
+            "longitude": 39.6770362854004,
+            "latitude": -4.12676477432251,
+            "L2_group_name": "Mombasa",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 3.72752,
             "out_strength": 0.022423560487431247,
             "in_strength": 0.0031689549870625063,
@@ -1704,6 +2554,11 @@ const data = {
             "id": 54
         },
         {
+            "longitude": 39.8950004577637,
+            "latitude": -3.63475346565247,
+            "L2_group_name": "Kilifi",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 6.080928,
             "out_strength": 0.03476051168042767,
             "in_strength": 0.007315801859685253,
@@ -1714,6 +2569,11 @@ const data = {
             "id": 55
         },
         {
+            "longitude": 40.0515785217285,
+            "latitude": -3.35852289199829,
+            "L2_group_name": "Watamu",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 2.01317,
             "out_strength": 0.03952759886963731,
             "in_strength": 0.004564492517373077,
@@ -1724,6 +2584,11 @@ const data = {
             "id": 56
         },
         {
+            "longitude": 40.2366676330566,
+            "latitude": -2.85103106498718,
+            "L2_group_name": "Tana Delta",
+            "L1_group_name": "S Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 0.146012,
             "out_strength": 0.03591051901631164,
             "in_strength": 0.011929875830653533,
@@ -1734,6 +2599,11 @@ const data = {
             "id": 57
         },
         {
+            "longitude": 40.6730041503906,
+            "latitude": -2.55003237724304,
+            "L2_group_name": "North Tana Area",
+            "L1_group_name": "N Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 5.90982,
             "out_strength": 0.05289781340732613,
             "in_strength": 0.03183718885898287,
@@ -1744,6 +2614,11 @@ const data = {
             "id": 58
         },
         {
+            "longitude": 40.982105255127,
+            "latitude": -2.24830102920532,
+            "L2_group_name": "Lamu Island",
+            "L1_group_name": "N Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 6.650471,
             "out_strength": 0.0689236483150954,
             "in_strength": 0.014701480851507638,
@@ -1754,6 +2629,11 @@ const data = {
             "id": 59
         },
         {
+            "longitude": 41.1943740844727,
+            "latitude": -2.108402967453,
+            "L2_group_name": "Pate Island",
+            "L1_group_name": "N Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 15.394234,
             "out_strength": 0.054221727219771025,
             "in_strength": 0.12077592880460591,
@@ -1764,6 +2644,11 @@ const data = {
             "id": 60
         },
         {
+            "longitude": 41.4799919128418,
+            "latitude": -1.80715346336365,
+            "L2_group_name": "Kiunga Marine National Reserve",
+            "L1_group_name": "N Kenya",
+            "country_name": "Kenya",
             "reef_area_km2": 0.892411,
             "out_strength": 0.01263920573727077,
             "in_strength": 0.01642698025345686,
@@ -1774,6 +2659,11 @@ const data = {
             "id": 61
         },
         {
+            "longitude": 41.7581825256348,
+            "latitude": -1.39419829845429,
+            "L2_group_name": "Ras Kamboni",
+            "L1_group_name": "Somalia",
+            "country_name": "Somalia",
             "reef_area_km2": 0.909368,
             "out_strength": 0.019789075918444247,
             "in_strength": 0.01238530648248022,
@@ -1784,6 +2674,11 @@ const data = {
             "id": 144
         },
         {
+            "longitude": 41.9824981689453,
+            "latitude": -1.09465157985687,
+            "L2_group_name": "Burgabo",
+            "L1_group_name": "Somalia",
+            "country_name": "Somalia",
             "reef_area_km2": 2.38639,
             "out_strength": 0.02067044784287054,
             "in_strength": 0.009996984192868682,
@@ -1794,6 +2689,11 @@ const data = {
             "id": 145
         },
         {
+            "longitude": 42.1856231689453,
+            "latitude": -0.837605595588684,
+            "L2_group_name": "Bajuni Islands",
+            "L1_group_name": "Somalia",
+            "country_name": "Somalia",
             "reef_area_km2": 4.49262,
             "out_strength": 0.06153887114873126,
             "in_strength": 0.11347307435375407,
