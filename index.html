@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <title>Coral dispersal network</title>
+  <title>Coral connectivity</title>
   <meta name="description" content="Ocean floor">
   <meta name="author" content="Julia Janicki">
   <link rel="shortcut icon" href="#">
@@ -443,18 +443,17 @@
       <span id="toggleConsole">
         <img src="./img/toggle.png" />
       </span>
-      <h1 id='title'>Coral dispersal network</h1>
+      <h1 id='title'>Coral connectivity in the southwest Indian Ocean</h1>
       <div class="instruction itemWrapper" id="instruction">
-        <p class="item">Click on a node to see more information, hover over a node to see connected edges. <br><br>
-          Circle
-          sizes are proportional to
-          <span><b>source strength</b></span> while line thinkness are proportional to weight.
+        <p class="item">This dispersal network is based on simulations by SECoW for <i>Platygyra daedalea</i>. <br><br>
+          Click on a reef to see more information, or hover over a reef to see outbound larval connections. <br><br>
+          Circle sizes are proportional to <span><b>out-strength</b></span> (likelihood of larvae settling anywhere) while line thinkness are proportional to the strength of outbound connections.
         </p>
         <p>Toggle here to set parameter to scale circle size:</p>
       </div>
       <br>
       <div class='itemWrapper'>
-        <p> Source strength </p>
+        <p> Out-strength </p>
       </div>
       <div id="circleSizes">
         <img id="minCircle" class='item' src="./img/legend.svg" />
@@ -472,7 +471,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.14.2/d3.js"></script>
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
   <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
-  <script src="data/GR_spawning.js"></script>
+  <script src="data/PD_network.js"></script>
   <script>
 
     var windowWidth = $(window).width();
@@ -492,7 +491,7 @@
     const edges = data.links;
 
 
-    const extent = d3.extent(nodes.map(d => +d.source_strength))
+    const extent = d3.extent(nodes.map(d => +d.out_strength))
     const sizeScale = d3.scaleLinear().domain(extent).range([5, 15]);
 
     $("#minCircleVal").html(extent[0].toFixed(5));
@@ -656,7 +655,7 @@
           'circle-radius': [
             'interpolate',
             ["linear"],
-            ['get', 'source'],
+            ['get', 'out_strength'],
             0,
             3,
             0.13,
@@ -683,8 +682,13 @@
             'longitude': +row.longitude,
             'latitude': +row.latitude,
             'name': row.L2_group_name,
-            'source': +row.source_strength,
-            'sink': +row.sink_strength,
+            'country': row.country_name,
+            'out_strength': +row.out_strength,
+            'in_strength': +row.in_strength,
+            'out_entropy': +row.out_entropy,
+            'in_entropy': +row.in_entropy,
+            'out_consistency': +row.out_consistency,
+            'in_consistency': +row.in_consistency,
             'id': +row.id
           },
           'geometry': {
@@ -782,18 +786,26 @@
       var latitude = e.features[0].properties.latitude;
       var longitude = e.features[0].properties.longitude;
       var name = e.features[0].properties.name;
-      var source = e.features[0].properties.source;
-      var sink = e.features[0].properties.sink;
-
+      var country = e.features[0].properties.country;
+      var out_strength = e.features[0].properties.out_strength;
+      var in_strength = e.features[0].properties.in_strength;
+      var out_entropy = e.features[0].properties.out_entropy;
+      var in_entropy = e.features[0].properties.in_entropy;
+      var out_consistency = e.features[0].properties.out_consistency;
+      var in_consistency = e.features[0].properties.in_consistency;
 
       popup = new mapboxgl.Popup({
         closeButton: true,
         closeOnClick: true,
         className: 'nodes'
       })
-        .setHTML('<h3 class="nodes"><b>' + name + '</b></h3>'
-          + '<h4><b>Source strength</b>: ' + source.toFixed(5) + '<br>'
-          + '<b>Sink strength</b>: ' + sink.toFixed(5) + '</h4>')
+        .setHTML('<h3 class="nodes"><b>' + name + ' (' + country + ')' + '</b></h3>'
+          + '<h4><b>Out-strength</b>: ' + (100*out_strength).toFixed(1) + '% <br>'
+          + '<b>In-strength</b>: ' + (100*in_strength).toFixed(1) + '% <br><br>'
+          + '<b>Out-entropy</b>: ' + out_entropy.toFixed(2) + ' bits<br>'
+          + '<b>In-entropy</b>: ' + in_entropy.toFixed(2) + ' bits<br><br>'
+          + '<b>Out-consistency</b>: ' + (100*out_consistency).toFixed(1) + '% <br>'
+          + '<b>In-consistency</b>: ' + (100*in_consistency).toFixed(1) + '% </h4>')
         .setLngLat([longitude, latitude])
         .addTo(map);
 
