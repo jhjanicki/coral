@@ -1,5 +1,6 @@
 # Sea the Connectivity
 <img width="1033" alt="Screenshot 2023-07-06 at 15 23 26" src="https://github.com/jhjanicki/coral/assets/6565011/764ee190-5a3b-4402-98cd-ef08776d0f31">
+
 ## Introduction
 Many marine invertebrates undergo a planktonic larval phase. Larvae can drift for significant distances through ocean currents (sometimes assisted by swimming), permitting long-distance dispersal. As a result, whilst many organisms are distributed across spatially isolated habitats (such as hydrothermal vents and coral reefs), these habitats may be *connected* in a network through larval dispersal. Understanding these connections is extremely important for understanding population dynamics, resilience, and biogeography. These connections are commonly displayed as *connectivity matrices*, but these can be non-intuitive to interpret spatially.
 
