@@ -54,8 +54,6 @@
     #console {
       position: absolute;
       width: 300px;
-      max-height: calc(100vh - 20px);
-      overflow-y: auto;
       margin: 10px;
       padding: 10px 20px 10px 30px;
       background-color: #F0F0F1;
@@ -139,21 +137,6 @@
       -webkit-transform: scaleX(-1);
       transform: scaleX(-1);
       opacity: 1;
-    }
-
-    #acknowledgements {
-      position: absolute;
-      width: 600px;
-      margin: 15px;
-      padding: 5px 5px 5px 8px;
-      background-color: #F0F0F1;
-      border-radius: 5px;
-      z-index: 15;
-      transition: 0.3s ease-in-out;
-      opacity: 0.5;
-      bottom: 0;
-      right: 0;
-      font-size: 75%;
     }
 
     #console h1,
@@ -458,38 +441,27 @@
   <div id='console'>
     <div class="verticalLine">
       <span id="toggleConsole">
-        <img src="./coral_data/img/toggle.png" />
+        <img src="./img/toggle.png" />
       </span>
       <h1 id='title'>Coral connectivity in the southwest Indian Ocean</h1>
       <div class="instruction itemWrapper" id="instruction">
-        <p class="item">This dispersal network is based on SECoW simulations for <i>Platygyra daedalea</i>, a type of
-          brain coral. <br><br>
-          Click on a reef to see more information, or hover over a reef to see outbound larval connections. Line
-          thicknesses are proportional to the strength of individual outbound connections, and circle size is
-          proportional to out-strength. <br><br>
-          <span><b>Out-strength:</b></span> the likelihood of virtual larvae settling anywhere. <br><br>
-          <span><b>In-strength:</b></span> the ratio between incoming and outgoing virtual larvae. <br><br>
-          <span><b>Out-entropy:</b></span> The diversity of larval destinations from a site. <br><br>
-          <span><b>In-entropy:</b></span> The diversity of larval sources for a site. <br><br>
-          <span><b>Out-consistency:</b></span> The proportion of spawning events accounting for half of outbound
-          settling larvae. <br><br>
-          <span><b>In-consistency:</b></span> The proportion of spawning events accounting for half of inbound settling
-          larvae. <br><br>
-          Reefs with high out-strength, out-entropy, and out-consistency may play an important role in maintaining
-          regional reef resilience. Reefs with high in-strength, in-entropy, and in-consistency may have greater
-          recovery potential.
+        <p class="item">This dispersal network is based on SECoW simulations for <i>Platygyra daedalea</i>. <br><br>
+          Click on a reef to see more information, or hover over a reef to see outbound larval connections. <br><br>
+          Circle sizes are proportional to <span><b>out-strength</b></span> (the likelihood of larvae settling
+          anywhere). Line thickness is proportional to the strength of individual outbound connections.
         </p>
       </div>
+      <br>
+      <div class='itemWrapper'>
+        <p> Out-strength </p>
+      </div>
+      <div id="circleSizes">
+        <img id="minCircle" class='item' src="./img/legend.svg" />
+        <p id="minCircleVal" class='item'></p>
+        <img id="maxCircle" class='item' src="./img/legend.svg" />
+        <p id="maxCircleVal" class='item'></p>
+      </div>
     </div>
-  </div>
-  <div id='acknowledgements'>
-    <p class="item"> This app is based on coral larval dispersal simulations run by researchers at the University of
-      Oxford, led by Noam Vogt-Vincent, April Burt, and Helen Johnson (see <a
-        href="https://doi.org/10.5194/egusphere-2023-778">here</a> for the preprint), and was funded by the Natural
-      Environment Research Council (NERC) and the Seychelles Conservation and Climate Adaptation Trust (SeyCCAT). This
-      interactive web app was conceptualised by Noam Vogt-Vincent and Otis Brunner, and developed by <a
-        href="https://juliahanjanicki.com/">Julia Janicki</a>.
-    </p>
   </div>
   </div>
   <!-- end line -->
@@ -499,7 +471,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.14.2/d3.js"></script>
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
   <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
-  <script src="./coral_data/data/PD_network.js"></script>
+  <script src="data/PD_network.js"></script>
   <script>
 
     var windowWidth = $(window).width();
@@ -557,7 +529,7 @@
       }
     }
 
-    mapboxgl.accessToken = 'pk.eyJ1IjoibnZvZ3R2aW5jZW50IiwiYSI6ImNsbm42NWp4MTAzZ2gyamxqaGx1ZXo5cWkifQ.sKbWZTq2b8AjeLMPOyIunQ';
+    mapboxgl.accessToken = 'pk.eyJ1IjoidGhldGhpcmRwb2xlIiwiYSI6ImNLSWVDcWsifQ.vVx5f1hjIvHBeSpaY3NUkQ';
 
     let nodesData = {
       'type': 'FeatureCollection',
@@ -885,7 +857,7 @@
   </script>
 </body>
 <div id="loading">
-  <img id="loading-image" src="./coral_data/img/load.gif" alt="Loading..." />
+  <img id="loading-image" src="./img/load.gif" alt="Loading..." />
 </div>
 
 </html>
